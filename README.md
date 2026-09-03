@@ -1,6 +1,6 @@
 # Hola, soy Andrés Molano 👋
 
-**Desarrollador Backend · Java & Spring Boot**
+**Backend Developer · Java & Spring Boot · Angular & Ionic**
 
 Desarrollador Backend con 3 años de experiencia construyendo sistemas de alto rendimiento en Java 17 y Spring Boot. He tomado sistemas legacy y reducido sus tiempos de ejecución hasta en un 80% aplicando concurrencia, paralelismo y arquitecturas limpias.
 
@@ -35,6 +35,11 @@ Actualmente trabajo en el sector asegurador diseñando arquitecturas orientadas 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
 
 ---
 
